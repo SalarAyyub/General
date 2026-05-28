@@ -1,0 +1,4 @@
+2. Analyse salaries according to states/locations.
+3. Analyse salaries per sector (include the types within sectors).
+4. Analyse salaries per sector with respect to locations for comparison. 
+5. Summarize on a normal distribution plot.
